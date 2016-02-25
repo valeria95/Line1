@@ -1,0 +1,28 @@
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\bin\Debug\LinerApp.exe.config
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\bin\Debug\LinerApp.exe
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\bin\Debug\LinerApp.pdb
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp.csprojResolveAssemblyReference.cache
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\MainWindow.g.cs
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\App.g.cs
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp_MarkupCompile.cache
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp_MarkupCompile.lref
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\MainWindow.baml
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp.g.resources
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp.Properties.Resources.resources
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp.csproj.GenerateResource.Cache
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp.exe
+c:\users\asche\documents\visual studio 2015\Projects\LinerApp\LinerApp\obj\Debug\LinerApp.pdb
+C:\Users\Иван\Desktop\LinerApp\LinerApp\bin\Debug\LinerApp.exe.config
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp.exe
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp.pdb
+C:\Users\Иван\Desktop\LinerApp\LinerApp\bin\Debug\LinerApp.exe
+C:\Users\Иван\Desktop\LinerApp\LinerApp\bin\Debug\LinerApp.pdb
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\App.g.cs
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp_MarkupCompile.cache
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp_MarkupCompile.lref
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\MainWindow.baml
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp.g.resources
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp.Properties.Resources.resources
+C:\Users\Иван\Desktop\LinerApp\LinerApp\obj\Debug\LinerApp.csproj.GenerateResource.Cache
